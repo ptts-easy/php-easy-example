@@ -7,8 +7,8 @@ This is a php web application to learn easily.
 - **language : Php**
 - **front-end : jquery, bootstrap**
 - **back-end : laravel**
-- **view : **
-- **file upload : **
+- **view**
+- **file upload**
 - **HTTP : XMLHttp, fetch, ajax, axios**
 
 ## Snapshot

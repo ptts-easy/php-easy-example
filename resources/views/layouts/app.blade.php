@@ -73,9 +73,6 @@
                     <li class="nav-item">
                         <a class="nav-link {{ $dashboard }}" href="/dashboard">Dashboard</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link {{ $websocket }}" href="/websocket">Websocket</a>
-                    </li>
                 </ul>
                 @if ($username != NULL)
                     <div class="dropdown">

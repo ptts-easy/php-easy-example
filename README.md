@@ -51,6 +51,6 @@ This is a php web application to learn easily.
 - test
     - http://localhost:28080/
 
-## contact
+## references
 
-  If you need to contact me, you can do it at the email faco0909@outlook.com
+  -

@@ -95,7 +95,7 @@
         </nav>
         @yield('content')
         <footer class="bg-secondary fixed-bottom">
-            contact me faco0909@outlook.com
+            contact me ptts-easy@outlook.com
         </footer>
     </div>
 </body>
